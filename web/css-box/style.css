@@ -1,0 +1,10 @@
+body{
+    background-image: url(img/100x100.gif);
+    color: rgba(255, 0, 0, 0.76);
+}
+div{
+    background-color:yellow;
+    color:black;
+    height: 200px;
+    width: 400px; 
+}
